@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=KFOmCnqEu92Fr1Mu4mxM&skey=a0a0114a1dcab3ac&v=v30) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmEU9fBBc-&skey=ee881451c540fdec&v=v30) format('woff');
+}
